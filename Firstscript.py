@@ -11,5 +11,4 @@ time.sleep(10)
 
 driver.close()
 #element.click()
-print("Executed")
-tets
+print("Executed")a
